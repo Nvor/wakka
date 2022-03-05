@@ -1,4 +1,4 @@
-## Run the React aoo
+## Run the React app
 
 In the project directory, you can run:
 
