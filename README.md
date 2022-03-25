@@ -1,2 +1,6 @@
 # wakka
-I'm not sure what I want this to be yet. Java and data streams or something.
+Some app for uploading and viewing content.
+
+## Stack
+Backend - Java/Spring Boot microservices \
+Frontend - JS/React
